@@ -29,9 +29,11 @@ Pastikan Anda memiliki Node.js dan npm terinstal di komputer Anda sebelum memula
     ```
 ## Menjalankan Proyek
 Untuk menjalankan proyek, gunakan perintah berikut:
+
     ```bash
     npm start
     ```
+
 Proyek akan berjalan di http://localhost:3000 secara default. Anda dapat mengganti port melalui variabel lingkungan jika diperlukan.
 
 ## End Point API
