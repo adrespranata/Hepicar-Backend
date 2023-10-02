@@ -1,4 +1,14 @@
 # Hepicar-Backend
+
+# Dokumentasi Tugas
+
+Ini adalah dokumentasi untuk test Full Stack Developer aplikasi "services" yang mencakup berbagai aspek seperti penggunaan, instalasi, rute, endpoint, dan penjelasan singkat tentang aplikasi ini.
+
+## Deskripsi Proyek
+
+Aplikasi "Catatan" adalah sebuah aplikasi sederhana untuk mencatat dan mengelola services. Aplikasi ini memiliki beberapa fitur utama, termasuk:
+- Membuat, membaca, memperbarui, dan menghapus services.
+- Endpoint API RESTful untuk operasi CRUD.
 ## Instalasi
 
 Pastikan Anda memiliki Node.js dan npm terinstal di komputer Anda sebelum memulai.
@@ -32,7 +42,7 @@ Pastikan Anda memiliki Node.js dan npm terinstal di komputer Anda sebelum memula
     ```
 7. Jalankan perintah `npm test` untuk menjalankan test aplikasi.
     ```bash
-    npm test
+    npm start
     ```
 ## Dokumentasi Postman
 
