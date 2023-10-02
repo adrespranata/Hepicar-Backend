@@ -16,20 +16,21 @@ Pastikan Anda memiliki Node.js dan npm terinstal di komputer Anda sebelum memula
     ```bash
     npm install
     ```
-## Menjalankan Proyek
-Untuk menjalankan proyek, gunakan perintah berikut:
+4. Copy file `.env.example` menjadi file `.env` untuk konfigurasi koneksi antara database dan mengganti port.
+5. Sesuaikan environment
+    ```
+    PORT = xxxx
 
+    DB_HOST = xxxx
+    DB_USERNAME = xxxx
+    DB_PASSWORD = xxxx
+    DB_NAME = xxxx
+    ```
+6. Jalankan perintah `npm start` untuk menjalankan aplikasi.
     ```bash
     npm start
     ```
-
-Proyek akan berjalan di http://localhost:3000 secara default. Anda dapat mengganti port melalui variabel lingkungan jika diperlukan.
-## Unit Test dengan Jest
-Proyek ini menggunakan Jest untuk melakukan unit testing. Unit testing adalah praktik pengujian perangkat lunak di mana berbagai bagian kecil dari program diuji secara terisolasi untuk memastikan bahwa mereka berfungsi sebagaimana mestinya. Unit test menjaga keandalan kode Anda dan memungkinkan Anda untuk mendeteksi dan memperbaiki masalah sebelum mereka menjadi masalah yang lebih besar.
-
-## Menjalankan Unit Test
-Untuk menjalankan unit test, pastikan Anda telah menginstal dependensi yang diperlukan dengan menjalankan `npm install` terlebih dahulu. Kemudian, Anda dapat menjalankan unit test dengan perintah berikut:
-
+7. Jalankan perintah `npm test` untuk menjalankan test aplikasi.
     ```bash
     npm test
     ```
