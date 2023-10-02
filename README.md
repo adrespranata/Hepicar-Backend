@@ -29,7 +29,6 @@ Pastikan Anda memiliki Node.js dan npm terinstal di komputer Anda sebelum memula
     ```
 ## Menjalankan Proyek
 Untuk menjalankan proyek, gunakan perintah berikut:
-
     ```bash
     npm start
     ```
