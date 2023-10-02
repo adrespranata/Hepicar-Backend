@@ -1,15 +1,4 @@
 # Hepicar-Backend
-
-Deskripsi singkat.
-
-## Daftar Isi
-
-- [Instalasi](#instalasi)
-- [Menjalankan Proyek](#menjalankan-proyek)
-- [End Point API](#end-point-api)
-- [Struktur Proyek](#struktur-proyek)
-- [Unit Test](#unit-test)
-
 ## Instalasi
 
 Pastikan Anda memiliki Node.js dan npm terinstal di komputer Anda sebelum memulai.
