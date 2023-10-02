@@ -44,23 +44,3 @@ Berikut adalah beberapa endpoint API yang tersedia:
 - `DELETE /services/:id`: Menghapus layanan berdasarkan ID.
 
 Pastikan untuk menyesuaikan endpoint dan permintaan sesuai dengan kebutuhan proyek Anda.
-
-## Struktur Proyek
-Berikut adalah struktur proyek yang disarankan:
-    ```bash
-    nama-proyek/
-    ├── src/
-    │   ├── controller/
-    │   │   ├── servicesController.js
-    │   ├── routes/
-    │   │   ├── servicesRoute.js
-    │   ├── app.js
-    ├── tests/
-    │   ├── route/
-    │   │   ├── GetAllServices.test.js
-    │   │   ├── CreateNewService.test.js
-    │   │   ├── UpdateService.test.js
-    │   │   ├── DeleteService.test.js
-    ├── package.json
-    ├── README.md
-    ```
