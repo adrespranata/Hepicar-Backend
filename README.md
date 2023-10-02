@@ -6,7 +6,7 @@ Pastikan Anda memiliki Node.js dan npm terinstal di komputer Anda sebelum memula
 1. Clone repositori ini:
     
     ```bash
-    git clone https://github.com/username/nama-proyek.git
+    git clone https://github.com/adrespranata/Hepicar-Backend.git
     ```
 2. Pindah ke direktori proyek:
     ```bash
@@ -19,9 +19,9 @@ Pastikan Anda memiliki Node.js dan npm terinstal di komputer Anda sebelum memula
 ## Menjalankan Proyek
 Untuk menjalankan proyek, gunakan perintah berikut:
 
-    ``bash
+    ```bash
     npm start
-    ``
+    ```
 
 Proyek akan berjalan di http://localhost:3000 secara default. Anda dapat mengganti port melalui variabel lingkungan jika diperlukan.
 ## Unit Test dengan Jest
@@ -29,6 +29,7 @@ Proyek ini menggunakan Jest untuk melakukan unit testing. Unit testing adalah pr
 
 ## Menjalankan Unit Test
 Untuk menjalankan unit test, pastikan Anda telah menginstal dependensi yang diperlukan dengan menjalankan `npm install` terlebih dahulu. Kemudian, Anda dapat menjalankan unit test dengan perintah berikut:
+
     ```bash
     npm test
     ```
