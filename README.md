@@ -2,7 +2,7 @@
 
 ## Dokumentasi Tugas
 
-Ini adalah dokumentasi untuk test Full Stack Developer aplikasi "services" yang mencakup berbagai aspek seperti penggunaan, instalasi, rute, endpoint, dan penjelasan singkat tentang aplikasi ini.
+Ini adalah dokumentasi untuk Technical Test Full Stack Developer aplikasi "services" yang mencakup berbagai aspek seperti penggunaan, instalasi, rute, endpoint, dan penjelasan singkat tentang aplikasi ini.
 
 ## Deskripsi Proyek
 
